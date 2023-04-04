@@ -1,6 +1,5 @@
 {
   "name": "word-hunt",
-  "homepage": "https://programmingfire.github.io/word-hunt-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
